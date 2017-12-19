@@ -13,7 +13,7 @@ public class MongoConfig extends  AbstractMongoConfiguration {
 
     @Override
     public String getDatabaseName() {
-        return "CommercialWebsite";
+        return "heroku_xfd4gndr";
     }
 
     @Override
